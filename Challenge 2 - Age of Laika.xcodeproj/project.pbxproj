@@ -13,6 +13,7 @@
 		6C7A1E1B1B3440C9004EECE5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C7A1E1A1B3440C9004EECE5 /* Images.xcassets */; };
 		6C7A1E1E1B3440C9004EECE5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6C7A1E1C1B3440C9004EECE5 /* LaunchScreen.xib */; };
 		6C7A1E2A1B3440C9004EECE5 /* Challenge_2___Age_of_LaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7A1E291B3440C9004EECE5 /* Challenge_2___Age_of_LaikaTests.swift */; };
+		6C7A1E341B344117004EECE5 /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6C7A1E331B344117004EECE5 /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		6C7A1E231B3440C9004EECE5 /* Challenge 2 - Age of LaikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Challenge 2 - Age of LaikaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C7A1E281B3440C9004EECE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C7A1E291B3440C9004EECE5 /* Challenge_2___Age_of_LaikaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Challenge_2___Age_of_LaikaTests.swift"; sourceTree = "<group>"; };
+		6C7A1E331B344117004EECE5 /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		6C7A1E111B3440C9004EECE5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6C7A1E331B344117004EECE5 /* AgeOfLaika.jpg */,
 				6C7A1E121B3440C9004EECE5 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C7A1E191B3440C9004EECE5 /* Main.storyboard in Resources */,
+				6C7A1E341B344117004EECE5 /* AgeOfLaika.jpg in Resources */,
 				6C7A1E1E1B3440C9004EECE5 /* LaunchScreen.xib in Resources */,
 				6C7A1E1B1B3440C9004EECE5 /* Images.xcassets in Resources */,
 			);
